@@ -11,3 +11,5 @@ https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20Wi
 
 Jupyter to pdf
 https://nbconvert.readthedocs.io/en/latest/
+
+Big Data Architect's Handbook: A guide to building proficiency in tools and systems used by leading big data experts
