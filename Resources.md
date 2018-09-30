@@ -13,3 +13,15 @@ Jupyter to pdf
 https://nbconvert.readthedocs.io/en/latest/
 
 Big Data Architect's Handbook: A guide to building proficiency in tools and systems used by leading big data experts
+
+Python big data architecture
+https://www.udemy.com/apache-spark-20-python-do-big-data-analytics-ml/
+
+Data Science Fundamentals for Python and MongoDB
+
+MongoDB: The Definitive Guide: Powerful and Scalable Data Storage
+
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+
+Advanced Analytics with Spark: Patterns for Learning from Data at Scale
+
