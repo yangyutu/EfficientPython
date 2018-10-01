@@ -22,7 +22,7 @@ The tentative chapters are
 
 * Linear Models For Regression
 
-* Linear Models For Regression
+* Linear Models For Classification
 
 * Tree Methods
 
