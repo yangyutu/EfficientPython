@@ -1,7 +1,7 @@
 # EfficientPython
 This is the repo contains an evolving open source book " Efficient Python for Data Science, Machine Learning, and Software Engineering", which is aimed to cover topics from advanced python programming, advanced usage of python libraries like Numpy, Pandas, Scipy, Scikit, Keras, Tensorflow, Spark and Hadoop etc., to cases studies of data science & machine learning applications and big data architecture design & engineering in the Python framework.
 
-Leading contributors: wyardt(https://github.com/wyardt), yangyutu(https://github.com/yangyutu)
+Leading contributors: wyardt(https://github.com/wyardt, mainly spiritual support, haha), yangyutu(https://github.com/yangyutu)
 
 The tentative chapters are
 ### Foundations of Programming and Computation in Python
